@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.2cce8147.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.d7fdbf4a.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.d7fdbf4a.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.9daedc1f.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.68e2d8c9.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.68e2d8c9.chunk.js.map",
     "runtime~main.js": "/my-portfolio/static/js/runtime~main.674e5ed7.js",
     "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.674e5ed7.js.map",
-    "static/js/2.b41502e9.chunk.js": "/my-portfolio/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/my-portfolio/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.96bb0508.chunk.css": "/my-portfolio/static/css/2.96bb0508.chunk.css",
+    "static/js/2.0ccae087.chunk.js": "/my-portfolio/static/js/2.0ccae087.chunk.js",
+    "static/js/2.0ccae087.chunk.js.map": "/my-portfolio/static/js/2.0ccae087.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.e9845091c8a3c1971178f5f75869b71a.js": "/my-portfolio/precache-manifest.e9845091c8a3c1971178f5f75869b71a.js",
+    "precache-manifest.83eddfcc4910fa249bb7d8efbcdcadc3.js": "/my-portfolio/precache-manifest.83eddfcc4910fa249bb7d8efbcdcadc3.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/my-portfolio/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/my-portfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/2.96bb0508.chunk.css.map": "/my-portfolio/static/css/2.96bb0508.chunk.css.map",
+    "static/css/main.9daedc1f.chunk.css.map": "/my-portfolio/static/css/main.9daedc1f.chunk.css.map",
+    "static/media/all.min.css": "/my-portfolio/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.0d2d4180.jpg"
   }
 }
