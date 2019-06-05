@@ -6,10 +6,10 @@ const NavBar = () => (
   <div className="container" id="top-nav-bar">
     <nav className="navbar" role="navigation">
       <div className="navbar-brand">
-        <a className="navbar-item" href="/">
+        <Link className="navbar-item" to="/">
           <span className="title is-5 first-name">Karl</span>
           <span className="title is-5 last-name">Musingo</span>
-        </a>
+        </Link>
 
         <button className="navbar-burger burger">
           <span aria-hidden="true" />
