@@ -13,11 +13,15 @@ const Home = () => (
           </div>
           <div className="column content">
             <h1 className="title is-1">I am Karl Musingo</h1>
-            <h3 className="title is-3">Software Engineer</h3>
-            <hr />
+            {/* <h3 className="title is-3">Software Engineer</h3> */}
+            {/* <hr /> */}
             <p id="about-me">
-              I am a fullstack software developer who is in love with data and
-              its analytics
+              Hello, <br />
+              I am a fullstack Software Engineer who enjoys providing solutions to the most challenging problems in the world through technology.<br />
+              Building software that solves problems at a global scale is what drives me every single day of my life. <br/> <br/>
+              Being passionate about technologies, I always want to learn new skills and work on projects that require me to reach outside of my comfort zone and knowledge.
+              <br/><br/>
+              When I am not working, I enjoy listenning to music and helping people learn anything I can, from English to Computer concepts.
             </p>
             <div className="columns">
               <div className="column">
